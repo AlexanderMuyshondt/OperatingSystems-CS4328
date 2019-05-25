@@ -18,7 +18,7 @@ Simply clone the GitHub repository and all the code is ready to go. No extra req
 
 `$ git clone https://github.com/AlexanderMuyshondt/cardMatchingFight`
 
-## HOW TO RUN
+## How to run
 1. From terminal, navigate into project folder.
 2. Run make.
 3. Type ./CardMatchingFight integer [integer being a number for the random seed].
