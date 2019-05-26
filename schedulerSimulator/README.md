@@ -50,5 +50,5 @@ for a different iteration. These files can then easily be imported into a spread
 [graphs](results/graphs/) from the CSV [results](results/) like I have included on this repo.
 
 ## Report
-I have written a [short report](results/report.pdf) detailing my observations based on the output of my code and the graphs I 
+I have written a short report detailing my observations based on the output of my code and the graphs I 
 have generated.
