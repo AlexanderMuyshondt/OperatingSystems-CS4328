@@ -1,5 +1,5 @@
-# CS4328 PROJECT 2 - Card Matching Fight
-In this project, we are going to build “Card Matching Fight”. Card matching fight is a simple card game with one dealer,
+# Card Matching Fight
+In this project, we build a “Card Matching Fight”. Card matching fight is a simple card game with one dealer,
 3 players, and a single deck of cards. The game is composed of three rounds. At the beginning of each round, the dealer
 shuffles the cards, deals the first three cards and waits for the round to finish, before repeating the same process for
 the next round. A winner in a round is the first player to get a match (i.e., two cards of equal rank). In each round, a
